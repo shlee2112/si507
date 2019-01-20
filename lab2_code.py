@@ -99,4 +99,4 @@ result = play_war_game()
 print("\n\nWinner is: {} - Player 1 scored {}, Player 2 scored {}".format(*result))
 
 
-#new comment
+#player 1 and 2 are playing a card game
